@@ -200,7 +200,7 @@
 - [Valid Anagram](Day-4/Classwork/LC242.py) — Easy — [LeetCode](https://leetcode.com/problems/valid-anagram/) · Day-4 Classwork
 - [Reverse String](Day-4/Classwork/LC344.py) — Easy — [LeetCode](https://leetcode.com/problems/reverse-string/) · Day-4 Classwork
 - [First Unique Character in a String](Day-8/Classwork/LC387.py) — Easy — [LeetCode](https://leetcode.com/problems/first-unique-character-in-a-string/) · Day-8 Classwork
-- [Valid Parentheses](Day-14/Classwork/LC20.txt) — Easy — [LeetCode](https://leetcode.com/problems/valid-parentheses/) · Day-14 Classwork
+- [Valid Parentheses](Day-14/Classwork/LC20.py) — Easy — [LeetCode](https://leetcode.com/problems/valid-parentheses/) · Day-14 Classwork
 
 ### Dynamic Programming
 
@@ -229,7 +229,7 @@
 - [Binary Tree Inorder Traversal](Day-12/Classwork/LC94.py) — Easy — [LeetCode](https://leetcode.com/problems/binary-tree-inorder-traversal/) · Day-12 Classwork
 - [Binary Tree Preorder Traversal](Day-12/Classwork/LC144.py) — Easy — [LeetCode](https://leetcode.com/problems/binary-tree-preorder-traversal/) · Day-12 Classwork
 - [Binary Tree Postorder Traversal](Day-12/Classwork/LC145.py) — Easy — [LeetCode](https://leetcode.com/problems/binary-tree-postorder-traversal/) · Day-12 Classwork
-- [Valid Parentheses](Day-14/Classwork/LC20.txt) — Easy — [LeetCode](https://leetcode.com/problems/valid-parentheses/) · Day-14 Classwork
+- [Valid Parentheses](Day-14/Classwork/LC20.py) — Easy — [LeetCode](https://leetcode.com/problems/valid-parentheses/) · Day-14 Classwork
 
 ### Binary Search
 
@@ -279,7 +279,7 @@
 
 ### Bracket Sequences
 
-- [Valid Parentheses](Day-14/Classwork/LC20.txt) — Easy — [LeetCode](https://leetcode.com/problems/valid-parentheses/) · Day-14 Classwork
+- [Valid Parentheses](Day-14/Classwork/LC20.py) — Easy — [LeetCode](https://leetcode.com/problems/valid-parentheses/) · Day-14 Classwork
 
 ### Bubble Sort
 
@@ -385,4 +385,4 @@
 | 450 | [Delete Node in a BST](Day-13/Classwork/LC450.py) | Tree, Binary Search Tree, Binary Tree | `Day-13/Classwork/LC450.py` | Day-13 Classwork |
 | 700 | [Search in a Binary Search Tree](Day-13/Classwork/LC700.py) | Tree, Binary Search Tree, Binary Tree | `Day-13/Classwork/LC700.py` | Day-13 Classwork |
 | 701 | [Insert into a Binary Search Tree](Day-13/Classwork/LC701.py) | Tree, Binary Search Tree, Binary Tree | `Day-13/Classwork/LC701.py` | Day-13 Classwork |
-| 20 | [Valid Parentheses](Day-14/Classwork/LC20.txt) | String, Stack, Bracket Sequences | `Day-14/Classwork/LC20.txt` | Day-14 Classwork |
+| 20 | [Valid Parentheses](Day-14/Classwork/LC20.py) | String, Stack, Bracket Sequences | `Day-14/Classwork/LC20.py` | Day-14 Classwork |
