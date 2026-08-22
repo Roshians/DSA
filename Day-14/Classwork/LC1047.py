@@ -1,7 +1,6 @@
 class Solution:
     def removeDuplicates(self, s: str) -> str:
         stack = []
-        res = ""
         for i in s:
             if stack and stack[-1] == i:
                 stack.pop()
