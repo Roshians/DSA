@@ -1,0 +1,18 @@
+class Solution:
+    def permute(self, nums: List[int]) -> List[List[int]]:
+        ans = []
+
+        def helper(i):
+            if i == len(nums):
+                ans.append(nums[:])
+                return
+            for j in range(i, len(nums)):
+                swap(nums, i, j)
+                helper(i+1)
+                swap(nums, i, j)
+
+        def swap(nums, i, j):
+            nums[i], nums[j] = nums[j], nums[i]
+
+        helper(0)
+        return ans
