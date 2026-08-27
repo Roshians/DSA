@@ -79,7 +79,7 @@
 - [Permutations](Day-15/Classwork/LC46.py) — Medium — [LeetCode](https://leetcode.com/problems/permutations/) · Day-15 Classwork
 - [N-Queens](Day-15/Classwork/LC51.py) — Hard — [LeetCode](https://leetcode.com/problems/n-queens/) · Day-15 Classwork
 - [Subsets](Day-15/Classwork/LC78.py) — Medium — [LeetCode](https://leetcode.com/problems/subsets/) · Day-15 Classwork
-- [Assign Cookies](Day-18/Classwork/LC455.txt) — Easy — [LeetCode](https://leetcode.com/problems/assign-cookies/) · Day-18 Classwork
+- [Assign Cookies](Day-18/Classwork/LC455.py) — Easy — [LeetCode](https://leetcode.com/problems/assign-cookies/) · Day-18 Classwork
 
 ### Binary Tree
 
@@ -129,7 +129,7 @@
 - [Sort Array By Parity](Day-6/Homework/LC905.py) — Easy — [LeetCode](https://leetcode.com/problems/sort-array-by-parity/) · Day-6 Homework
 - [Sort Array By Parity II](Day-6/Homework/LC922.py) — Easy — [LeetCode](https://leetcode.com/problems/sort-array-by-parity-ii/) · Day-6 Homework
 - [Middle of the Linked List](Day-11/Classwork/LC876.py) — Easy — [LeetCode](https://leetcode.com/problems/middle-of-the-linked-list/) · Day-11 Classwork
-- [Assign Cookies](Day-18/Classwork/LC455.txt) — Easy — [LeetCode](https://leetcode.com/problems/assign-cookies/) · Day-18 Classwork
+- [Assign Cookies](Day-18/Classwork/LC455.py) — Easy — [LeetCode](https://leetcode.com/problems/assign-cookies/) · Day-18 Classwork
 
 ### Math
 
@@ -159,7 +159,7 @@
 - [Sort Array By Parity](Day-6/Homework/LC905.py) — Easy — [LeetCode](https://leetcode.com/problems/sort-array-by-parity/) · Day-6 Homework
 - [Sort Array By Parity II](Day-6/Homework/LC922.py) — Easy — [LeetCode](https://leetcode.com/problems/sort-array-by-parity-ii/) · Day-6 Homework
 - [Contains Duplicate](Day-8/Classwork/LC217.py) — Easy — [LeetCode](https://leetcode.com/problems/contains-duplicate/) · Day-8 Classwork
-- [Assign Cookies](Day-18/Classwork/LC455.txt) — Easy — [LeetCode](https://leetcode.com/problems/assign-cookies/) · Day-18 Classwork
+- [Assign Cookies](Day-18/Classwork/LC455.py) — Easy — [LeetCode](https://leetcode.com/problems/assign-cookies/) · Day-18 Classwork
 
 ### Depth-First Search
 
@@ -309,7 +309,7 @@
 ### Quicksort
 
 - [Sort Colors](Day-6/Homework/LC75.py) — Medium — [LeetCode](https://leetcode.com/problems/sort-colors/) · Day-6 Homework
-- [Assign Cookies](Day-18/Classwork/LC455.txt) — Easy — [LeetCode](https://leetcode.com/problems/assign-cookies/) · Day-18 Classwork
+- [Assign Cookies](Day-18/Classwork/LC455.py) — Easy — [LeetCode](https://leetcode.com/problems/assign-cookies/) · Day-18 Classwork
 
 ### Algorithm X
 
@@ -337,7 +337,7 @@
 
 ### Greedy
 
-- [Assign Cookies](Day-18/Classwork/LC455.txt) — Easy — [LeetCode](https://leetcode.com/problems/assign-cookies/) · Day-18 Classwork
+- [Assign Cookies](Day-18/Classwork/LC455.py) — Easy — [LeetCode](https://leetcode.com/problems/assign-cookies/) · Day-18 Classwork
 
 ### Lowest Common Ancestor
 
@@ -460,4 +460,4 @@
 | 46 | [Permutations](Day-15/Classwork/LC46.py) | Array, Backtracking | `Day-15/Classwork/LC46.py` | Day-15 Classwork |
 | 51 | [N-Queens](Day-15/Classwork/LC51.py) | Array, Backtracking, Algorithm X | `Day-15/Classwork/LC51.py` | Day-15 Classwork |
 | 78 | [Subsets](Day-15/Classwork/LC78.py) | Array, Backtracking, Bit Manipulation | `Day-15/Classwork/LC78.py` | Day-15 Classwork |
-| 455 | [Assign Cookies](Day-18/Classwork/LC455.txt) | Array, Two Pointers, Greedy, Sorting, Quicksort | `Day-18/Classwork/LC455.txt` | Day-18 Classwork |
+| 455 | [Assign Cookies](Day-18/Classwork/LC455.py) | Array, Two Pointers, Greedy, Sorting, Quicksort | `Day-18/Classwork/LC455.py` | Day-18 Classwork |
